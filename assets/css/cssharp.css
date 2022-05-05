@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'CSSHARP';
+	src: url('../fonts/A-Bebedera.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.cssharp{
+	font-family:'CSSHARP' !important; 
+	font-size: 1.2em !important;
+}
+
+.cssharp .cs{
+  color: #009be3 !important;
+  cursor: pointer;
+}
+
+.cssharp .sharp{
+  color: #000000 !important;
+  cursor: pointer;
+}
+
+.cssharp .sharp2{
+  color: #FFFFFF !important;
+  cursor: pointer;
+}
